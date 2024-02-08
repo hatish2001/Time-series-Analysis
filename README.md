@@ -1,4 +1,4 @@
-# LSTM Model for Time Series Prediction
+# LSTM, SARIMA, ARIMA Model for Time Series Prediction
 
 ## Project Overview
 
@@ -30,6 +30,7 @@ Usage
 
 - Start Jupyter Notebook or JupyterLab:
 - Open the LSTM_Model.ipynb file in the Jupyter interface.
+- Open the SARIMAX.ipynb for the ARIMA and SARIMA model
 
 - Run the cells sequentially to see each step in the process, from data loading to model evaluation.
 
